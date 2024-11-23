@@ -1,0 +1,14 @@
+@media (min-width: 300px) {
+  .div-p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .div-p {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+}
+
