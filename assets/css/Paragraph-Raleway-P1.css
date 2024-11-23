@@ -1,0 +1,12 @@
+@media (min-width: 300px) {
+  .Paragraph-Raleway-P1 {
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 768px) {
+  .Paragraph-Raleway-P1 {
+    font-size: 19px;
+  }
+}
+

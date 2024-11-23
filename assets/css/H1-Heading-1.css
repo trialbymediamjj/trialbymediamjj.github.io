@@ -1,0 +1,21 @@
+#H1-main-title {
+}
+
+@media (min-width: 300px) {
+  #H1-main-title {
+    font-size: 19.4px;
+  }
+}
+
+@media (min-width: 768px) {
+  #H1-main-title {
+    font-size: 33.4px;
+  }
+}
+
+.container {
+}
+
+div {
+}
+

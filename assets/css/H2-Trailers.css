@@ -1,0 +1,12 @@
+@media (min-width: 300px) {
+  #H2-Trailers {
+    font-size: 19.4px;
+  }
+}
+
+@media (min-width: 768px) {
+  #H2-Trailers {
+    font-size: 29.4px;
+  }
+}
+
