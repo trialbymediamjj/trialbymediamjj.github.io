@@ -17,3 +17,10 @@
   line-height: 30px;
 }
 
+.div-p {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+

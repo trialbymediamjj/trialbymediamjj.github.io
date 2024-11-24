@@ -1,0 +1,25 @@
+@media (min-width: 300px) {
+  .button-categories {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 768px) {
+  .button-categories {
+    font-size: 22px;
+  }
+}
+
+.button-categories {
+  font-weight: bold;
+  font-family: Poppins, sans-serif;
+  border-radius: 0px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 4px solid rgb(0, 0, 0);
+  margin: 10px;
+  height: 100%;
+}
+
