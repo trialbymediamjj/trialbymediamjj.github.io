@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'The Unknown';
+	src: url(../../assets/fonts/The%20Unknown-55faa45dc773c3c69a7aff38f4d6321b.woff2) format('woff2'),
+	url(../../assets/fonts/The%20Unknown-24d62e9d7856063cfdbc0ba181494805.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
