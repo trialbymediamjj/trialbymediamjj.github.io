@@ -1,0 +1,44 @@
+@media (min-width: 300px) {
+  .Heading-title {
+    font-size: 17.4px;
+    line-height: 26.3px;
+    letter-spacing: 5px;
+  }
+}
+
+@media (min-width: 576px) {
+  .Heading-title {
+    font-size: 21.4px;
+    line-height: 36.3px;
+    letter-spacing: 5px;
+  }
+}
+
+@media (min-width: 768px) {
+  .Heading-title {
+    font-size: 24.4px;
+    line-height: 40.3px;
+    letter-spacing: 5px;
+  }
+}
+
+@media (min-width: 992px) {
+  .Heading-title {
+    font-size: 37.4px;
+    line-height: 50.3px;
+    letter-spacing: 5px;
+  }
+}
+
+.Heading-title {
+  text-align: center;
+  border-width: 5.4px;
+  border-style: none;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-family: 'Barrio';
+  color: #000000;
+}
+
