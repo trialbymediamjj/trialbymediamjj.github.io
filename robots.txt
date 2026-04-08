@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /404/
+https://trialbymediamjj.github.io/sitemap.xml
