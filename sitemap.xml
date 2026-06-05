@@ -4,10 +4,10 @@
         <loc>https://trialbymediamjj.github.io/artwork/banners.html</loc>
     </url>
     <url>
-        <loc>https://trialbymediamjj.github.io/artwork/general-artwork.html</loc>
+        <loc>https://trialbymediamjj.github.io/artwork/general.html</loc>
     </url>
     <url>
-        <loc>https://trialbymediamjj.github.io/artwork/trailer-artwork.html</loc>
+        <loc>https://trialbymediamjj.github.io/artwork/trailers.html</loc>
     </url>
     <url>
         <loc>https://trialbymediamjj.github.io/info-pages/contact.html</loc>
@@ -29,6 +29,9 @@
     </url>
     <url>
         <loc>https://trialbymediamjj.github.io/menu/trailers.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/trailer/other/righting-history.html</loc>
     </url>
     <url>
         <loc>https://trialbymediamjj.github.io/trailer/a-michael-jackson-stan-story.html</loc>
@@ -56,9 +59,6 @@
     </url>
     <url>
         <loc>https://trialbymediamjj.github.io/trailer/return-of-the-living-glorifier.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/righting-history.html</loc>
     </url>
     <url>
         <loc>https://trialbymediamjj.github.io/trailer/run-from-the-truth.html</loc>

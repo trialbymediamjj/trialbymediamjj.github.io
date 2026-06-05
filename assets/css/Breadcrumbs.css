@@ -1,0 +1,28 @@
+.bread-1 {
+  padding-top: 0px;
+  margin-top: -10px;
+  margin-bottom: -5px;
+}
+
+@media (min-width: 300px) {
+  .breadcrumb-item {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 576px) {
+  .breadcrumb-item {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .breadcrumb-item {
+    font-size: 17px;
+  }
+}
+
+.breadcrumb {
+  justify-content: center;
+}
+
