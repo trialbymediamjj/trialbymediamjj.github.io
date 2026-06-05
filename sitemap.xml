@@ -1,25 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://trialbymediamjj.github.io/artwork/banners.html</loc>
+        <loc>https://trialbymediamjj.github.io/menu/artwork/banners.html</loc>
     </url>
     <url>
-        <loc>https://trialbymediamjj.github.io/artwork/general.html</loc>
+        <loc>https://trialbymediamjj.github.io/menu/artwork/general.html</loc>
     </url>
     <url>
-        <loc>https://trialbymediamjj.github.io/artwork/trailers.html</loc>
+        <loc>https://trialbymediamjj.github.io/menu/artwork/trailers.html</loc>
     </url>
     <url>
-        <loc>https://trialbymediamjj.github.io/info-pages/contact.html</loc>
+        <loc>https://trialbymediamjj.github.io/menu/info-pages/contact.html</loc>
     </url>
     <url>
-        <loc>https://trialbymediamjj.github.io/info-pages/jin-martini.html</loc>
+        <loc>https://trialbymediamjj.github.io/menu/info-pages/jin-martini.html</loc>
     </url>
     <url>
-        <loc>https://trialbymediamjj.github.io/info-pages/newsletter.html</loc>
+        <loc>https://trialbymediamjj.github.io/menu/info-pages/newsletter.html</loc>
     </url>
     <url>
-        <loc>https://trialbymediamjj.github.io/info-pages/privacy-policy.html</loc>
+        <loc>https://trialbymediamjj.github.io/menu/info-pages/privacy-policy.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/other/righting-history.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/a-michael-jackson-stan-story.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/a-retrospective-look-inside-the-cult-of-celebrity.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/blame-the-media-not-the-icon.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/can-you-stan-the-truth.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/dawn-of-the-stan.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/day-of-the-iconic-weirdo.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/its-not-a-pandemic-its-a-standemic.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/night-of-the-morally-bankrupt.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/return-of-the-living-glorifier.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/run-from-the-truth.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/the-straight-jacket.html</loc>
+    </url>
+    <url>
+        <loc>https://trialbymediamjj.github.io/menu/trailers/the-wacko-jacko-project.html</loc>
     </url>
     <url>
         <loc>https://trialbymediamjj.github.io/menu/about.html</loc>
@@ -29,45 +68,6 @@
     </url>
     <url>
         <loc>https://trialbymediamjj.github.io/menu/trailers.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/other/righting-history.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/a-michael-jackson-stan-story.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/a-retrospective-look-inside-the-cult-of-celebrity.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/blame-the-media-not-the-icon.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/can-you-stan-the-truth.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/dawn-of-the-stan.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/day-of-the-iconic-weirdo.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/its-not-a-pandemic-its-a-standemic.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/night-of-the-morally-bankrupt.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/return-of-the-living-glorifier.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/run-from-the-truth.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/the-straight-jacket.html</loc>
-    </url>
-    <url>
-        <loc>https://trialbymediamjj.github.io/trailer/the-wacko-jacko-project.html</loc>
     </url>
     <url>
         <loc>https://trialbymediamjj.github.io/</loc>
